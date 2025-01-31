@@ -1,5 +1,7 @@
 
 Original prompt:
+
+
 – In a street there are five houses, painted five different colours.
 – In each house lives a person of different nationality.
 – These five homeowners each drink a different kind of beverage, smoke different brand of cigar and keep a different pet.
@@ -24,6 +26,8 @@ Necessary clues:
 15. The Blends smoker lives next to the one who drinks water.
 
 
+
+SKY T1 32B PREVIEW ANSER:
 
 
 
